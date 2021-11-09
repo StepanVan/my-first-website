@@ -1,0 +1,145 @@
+html {
+  font-family: 'Zen Kurenaido', sans-serif;
+  text-align:center;
+}
+p {
+  font-size: 34px;
+  text-align: left;
+  margin-left:700px;
+  
+}
+img {
+  margin-top:0Px;
+  margin-right:1220px;
+  max-width: 100%;  
+  height: auto;  
+  float:left;
+ 
+}
+ h1 {
+  position:absolute;
+  top:335px;
+  left:95px;
+   font-size:75px;
+   font-family: 'Abril Fatface', cursive;
+   text-align:left;
+}
+.hi {
+  position:absolute;
+  top:285px;
+  left:95px;
+  font-size:55px;
+  font-family: 'Abril Fatface', cursive;
+  text-align:left;
+}
+  h3, h4 {
+    text-align: left;
+    margin-left:700px;  
+  }
+.lista {
+  background:#222;
+  width:600px auto;
+  height:135px;
+  margin-bottom:0px;
+  margin-top:0px;
+  margin-left:0px;
+    display:row;
+}
+button {
+  width: 255px;
+  height:105px;
+  cursor:pointer;
+  background:#222;
+  color:white;
+  font-size:40px;
+    margin-left:70px;
+  margin-right:70px;
+  margin-top:10px;
+  border:none;
+}
+.bio {width:75px;}
+.exp { width: 205px;}
+.train {width:150px;}
+  .prvy {
+    float:right;
+    position:absolute;
+    top:730px;
+    right:80px;
+    margin:0px;
+    padding:0px;
+    text-align:left;
+}
+  li {
+    font-size: 34px;
+    text-align:left;
+    margin-left:750px;
+  } 
+.large {
+  margin-top:750px;
+  position:absolute;
+}
+h3 { 
+  font-size:45px;  
+}
+h4 { font-size:38px; }
+h2 {
+  font-size:60px;
+  background:#222;
+  color:white;
+  width:430Px;
+  height:300px;
+  padding:75px;
+  font-family: 'Abril Fatface', cursive;
+}
+.ahoj {
+  background:#222;
+  width:430px;
+  height:320px;
+  position:absolute;
+  margin-top:630Px;
+}
+.find {
+  position: absolute;
+  top:1700px;
+}
+.when {
+  position:absolute;
+  top:1080px;
+  height:650px;
+  padding-top:220px;
+  font-size:65px;
+}
+.odstavec {
+  position:relative;
+  top:550px;
+}
+.odst2 {
+  position:relative;
+  top:580px;
+}
+.odst3 {
+  position:relative;
+  top:680px;
+}
+#button {
+    height: 70px;
+  width: 250px;
+  background: white;
+  border-radius: 25%;
+  color: black;
+  font-size: 25px;
+   text-align: center;
+  position: fixed;
+  bottom: 0px;
+  right: 1330px;
+  border:solid thin white;
+  cursor:pointer;
+  box-shadow:0px 2px 3px 5px grey;
+  font-family: 'Dancing Script', cursive;
+}
+a {
+  text-decoration:none;
+  color:black;
+  position:relative;
+  top:12px;
+}
